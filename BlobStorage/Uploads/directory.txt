@@ -1,0 +1,13 @@
+Site URL	                        Directory	
+http://placements-alternatifs.com	home/analog/public_html
+http://investissement-alternatif.com/	home/analog1/public_html
+http://investissement-long-terme.com/	home/analog2/public_html
+http://placement-physique.com/	        home/analog3/public_html
+http://financement-long-terme.com/	home/analog4/public_html
+http://placement-en-ligne.com/		home/analog5/public_html
+http://investissement-longue-duree.com/	home/analog6/public_html
+http://placement-long-terme.com/	home/analog7/public_html
+http://investir-a-long-terme.com/	home/analog8/public_html
+http://investissement-a-long-terme.com/	home/analog9/public_html
+http://les-placements-en-ligne.com/	home/analog13/public_html
+http://placementsurlenet.com/		home/analog15/public_html
